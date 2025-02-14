@@ -47,6 +47,8 @@ Ensure the following libraries are imported in your Python code:
 
 ```python
 from time import process_time
+import pandas as pd
+import numpy as np
 from efficient_apriori import apriori, itemsets_from_transactions
 ```
 
